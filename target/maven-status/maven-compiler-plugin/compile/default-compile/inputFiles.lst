@@ -1,0 +1,17 @@
+/home/l/labrin/workplacetp/Command_g2_8/src/main/java/edu/uga/miage/m1/polygons/gui/commands/Command.java
+/home/l/labrin/workplacetp/Command_g2_8/src/main/java/edu/uga/miage/m1/polygons/gui/shapes/Triangle.java
+/home/l/labrin/workplacetp/Command_g2_8/src/main/java/edu/uga/miage/m1/polygons/gui/shapes/ShapeFactory.java
+/home/l/labrin/workplacetp/Command_g2_8/src/main/java/edu/uga/miage/m1/polygons/gui/persistence/Visitable.java
+/home/l/labrin/workplacetp/Command_g2_8/src/main/java/edu/uga/miage/m1/polygons/gui/persistence/XMLVisitor.java
+/home/l/labrin/workplacetp/Command_g2_8/src/main/java/edu/uga/miage/m1/polygons/gui/persistence/JSonVisitor.java
+/home/l/labrin/workplacetp/Command_g2_8/src/main/java/edu/uga/miage/m1/polygons/gui/GUIHelper.java
+/home/l/labrin/workplacetp/Command_g2_8/src/main/java/edu/uga/miage/m1/polygons/gui/JDrawingFrame.java
+/home/l/labrin/workplacetp/Command_g2_8/src/main/java/edu/uga/miage/m1/polygons/gui/commands/UndoCommand.java
+/home/l/labrin/workplacetp/Command_g2_8/src/main/java/edu/uga/miage/m1/polygons/gui/commands/DrawCommand.java
+/home/l/labrin/workplacetp/Command_g2_8/src/main/java/edu/uga/miage/m1/polygons/gui/shapes/Cube.java
+/home/l/labrin/workplacetp/Command_g2_8/src/main/java/edu/uga/miage/m1/polygons/gui/shapes/Square.java
+/home/l/labrin/workplacetp/Command_g2_8/src/main/java/edu/uga/miage/m1/polygons/gui/App.java
+/home/l/labrin/workplacetp/Command_g2_8/src/main/java/edu/uga/miage/m1/polygons/gui/persistence/Visitor.java
+/home/l/labrin/workplacetp/Command_g2_8/src/main/java/edu/uga/miage/m1/polygons/gui/shapes/Circle.java
+/home/l/labrin/workplacetp/Command_g2_8/src/main/java/edu/uga/miage/m1/polygons/gui/shapes/SimpleShape.java
+/home/l/labrin/workplacetp/Command_g2_8/src/main/java/edu/uga/miage/m1/polygons/gui/commands/CommandHistory.java
